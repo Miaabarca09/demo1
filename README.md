@@ -1,2 +1,2 @@
-# demo1
+# index.html
 Introduction to git and github LaneTech
